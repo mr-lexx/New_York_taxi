@@ -5,4 +5,4 @@
 # Данные
 Для данной задачи использовались данные с официального портала данных города Чикаго https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew по поездкам такси за 2022 и неполный 2023 год.
 # Стек технологий
-Docker, PySpark, NumPy, Pandas, Python, Matplotlib, LinearRegression, GBTRegressor
+Docker, PySpark, Pandas, Python, Matplotlib, LinearRegression, GBTRegressor
