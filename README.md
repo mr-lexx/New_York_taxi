@@ -2,5 +2,11 @@
 ## Поставновка задачи
 Для привлечения водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов на следующий час в каждом округе Чикаго.<br>
 Решение данной задачи необходимо провести с применением PySpark на локальном кластере из Docker контейнеров.
-# Стек технологий
-Docker, PySpark, Pandas, Python, Matplotlib, LinearRegression, GBTRegressor
+# Навыки и инструменты
+- Python
+- Docker
+- PySpark
+- Pandas
+-  Matplotlib
+-  LinearRegression
+-  GBTRegressor
