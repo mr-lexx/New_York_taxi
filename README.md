@@ -10,3 +10,6 @@
 -  Matplotlib
 -  LinearRegression
 -  GBTRegressor
+
+## Статус проекта
+Закончен
